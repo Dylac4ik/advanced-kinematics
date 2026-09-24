@@ -1,7 +1,7 @@
 displayName: "Advanced kinematics"
 name: "Advanced-kinematics"
 author: "DYLANCHIK"
-main: "example.AdvancedKinematicsMod"
+main: "advancedkinematics.AdvancedKinematicsMod"
 description: "A Mindustry Java mod template."
 version: v1.0.0
 minGameVersion: 160

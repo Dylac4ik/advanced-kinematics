@@ -1,19 +1,16 @@
-package example;
-import arc.*;
-import arc.util.*;
-import mindustry.game.EventType.*;
+package advancedkinematics;
 import mindustry.mod.*;
-import mindustry.ui.dialogs.*;
 
 public class AdvancedKinematicsMod extends Mod{
-
     public AdvancedKinematicsMod(){
         
     }
 
     @Override
     public void loadContent(){
-
+        AdvancedKinematicsItems.load();
+        AdvancedKinematicsBlocks.load();
+        
     }
 
 }
