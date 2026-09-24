@@ -1,5 +1,4 @@
 package example;
-
 import arc.*;
 import arc.util.*;
 import mindustry.game.EventType.*;
